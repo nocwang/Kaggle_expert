@@ -1,3 +1,3 @@
 # Kaggle codes
-https://www.kaggle.com/c/msk-redefining-cancer-treatment
+https://www.kaggle.com/competitions
 
