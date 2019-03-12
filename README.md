@@ -65,6 +65,10 @@ Submissions are evaluated using the Normalized Gini Coefficient. November 29, 20
 
 In the train and test data, features that belong to similar groupings are tagged as such in the feature names (e.g., ind, reg, car, calc). In addition, feature names include the postfix bin to indicate binary features and cat to indicate categorical features. Features without these designations are either continuous or ordinal. Values of -1 indicate that the feature was missing from the observation. The target columns signifies whether or not a claim was filed for that policy holder.
 
+# Personalized Medicine: Redefining Cancer Treatment
+Natural Language Processing and Classification: Using an expert-annotated knowledge base provided by Memorial Sloan Kettering Cancer Center (MSKCC), built multiclass classification model with XGBoost and Keras to classify genetic mutation based on evidence from text-based clinical literature. Current public leaderboard score (Logarithmic Loss) is 0.56402, ranking top 5%.
 
+Feature Extraction: counting/TF-IDF/SVD reduced TF-IDF NLP-related features
+Feature Selection: feature importance determined by VarianceThreshold/RandomForestClassifier
 
 
