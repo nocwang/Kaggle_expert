@@ -78,3 +78,14 @@ Feature Extraction: counting/TF-IDF/SVD reduced TF-IDF NLP-related features
 Feature Selection: feature importance determined by VarianceThreshold/RandomForestClassifier
 
 
+ 
+ ## Citation
+If you find it useful, please cite our paper as follows:
+
+```
+ @phdthesis{wang2020data,
+  title={Data analytics and optimization methods in biomedical systems: from microbes to humans},
+  author={Wang, Taiyao},
+  year={2020}
+}
+```
