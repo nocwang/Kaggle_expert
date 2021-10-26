@@ -37,7 +37,7 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 - makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target. August 29, 2018 - Final submission deadline.
-
+```
 application_test.csv
 48.7k x 121
 application_train.csv
@@ -58,7 +58,7 @@ previous_application.csv
 1.67m x 37
 sample_submission.csv
 48.7k x 2
-
+```
 
 # Porto Seguro’s Safe Driver Prediction
 - Bronze medal. 
